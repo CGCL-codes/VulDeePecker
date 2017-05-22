@@ -1,4 +1,4 @@
-# VulDeePecker
+# VulDeePecker: A Deep Learning-Based System for Automatic Vulnerability Detection
 
 Title:   VulDeePecker: A Deep Learning-Based System for Automatic Vulnerability Detection
 
